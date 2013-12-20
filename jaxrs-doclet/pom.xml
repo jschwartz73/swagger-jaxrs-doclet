@@ -4,7 +4,7 @@
 
     <parent>
         <artifactId>jaxrs-doclet-parent</artifactId>
-        <groupId>com.hypnoticocelot</groupId>
+        <groupId>com.schwartech</groupId>
         <version>0.0.3-SNAPSHOT</version>
     </parent>
 
